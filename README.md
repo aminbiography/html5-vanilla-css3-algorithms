@@ -1,5 +1,8 @@
 ![HTML-CSS](https://i.pinimg.com/736x/fa/37/53/fa3753237e71d6807259d5b499bc48a7.jpg)
 
+**HTML5 Fundamentals (PDF)** — Free educational resource by Mohammad Aminul Islam. [**Download**](./html5-fundamentals-by-Mohammad-Aminul-Islam.pdf)
+
+
 ===================<h1>HTML Algorithms, Structures, & Examples</h1>==================
 ```
 <!DOCTYPE html>
