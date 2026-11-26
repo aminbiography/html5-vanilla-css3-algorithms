@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/aminbiography/html5-vanilla-css3-algorithms/refs/heads/main/backup/HTML5.png" alt="HTML5 Logo" width="300" height="200">
+    <img src="https://raw.githubusercontent.com/aminbiography/html5-vanilla-css3-algorithms/refs/heads/main/backup/HTML5.png" alt="HTML5 Logo" width="100">
 </p>
 
 **HTML5 Fundamentals** — Free educational resource by Mohammad Aminul Islam. [Download PDF](https://github.com/aminbiography/html5-vanilla-css3-algorithms/releases/download/v1/html5-fundamentals-by-Mohammad-Aminul-Islam.pdf) | [Download DOCX](https://github.com/aminbiography/html5-vanilla-css3-algorithms/releases/download/v1/html5-fundamentalsby-by-Mohammad-Aminul-Islam.docx)
